@@ -18,7 +18,7 @@ const db=mysql.createConnection({
     host:"sql12.freesqldatabase.com",
     user:"sql12652834",
     password:"hzpYPE9QVZ",
-    database:"",
+    database:"sql12652834",
 })
 
 app.get("/books",(req,res)=>{
